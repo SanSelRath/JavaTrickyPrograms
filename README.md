@@ -1,0 +1,2 @@
+# JavaTrickyPrograms
+Preparation before zoho
