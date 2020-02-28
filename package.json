@@ -1,0 +1,12 @@
+{
+  "name": "catalyst",
+  "version": "1.0.0",
+  "description": "Node JS Template With SDK For App Logic",
+  "main": "index.js",
+  "author": "Catalyst",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "zcatalyst-sdk-node": "0.0.10"
+  }
+}
