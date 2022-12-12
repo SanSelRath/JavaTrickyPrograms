@@ -6,7 +6,7 @@
   "author": "Catalyst",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "zcatalyst-sdk-node": "0.0.10"
   }
 }
